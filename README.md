@@ -9,6 +9,12 @@
 
 
 
+## Snapshot
+
+![](showcase.png)
+
+
+
 ## Q&A
 
 - 什么叫 "**现代化**" 公司？
@@ -74,8 +80,8 @@ python dnp.py
 ## Usage
 
 ```
-pyhton dnp.py -d A.com
-pyhton dnp.py -d demo.A.com -m simple
-pyhton dnp.py -f A.com-domains.txt -m simple -o /tmp/predictor-a.com.txt
+python dnp.py -d A.com
+python dnp.py -f A.com-domains.txt -m simple
+python dnp.py -d demo.A.com -m simple -o /tmp/predictor-a.com.txt
 ```
 
