@@ -85,3 +85,5 @@ python dnp.py -f A.com-domains.txt -m simple
 python dnp.py -d demo.A.com -m simple -o /tmp/predictor-a.com.txt
 ```
 
+## 相似项目
+https://github.com/codingo/DNSCewl
