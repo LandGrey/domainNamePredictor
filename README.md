@@ -87,3 +87,12 @@ python dnp.py -d demo.A.com -m simple -o /tmp/predictor-a.com.txt
 
 ## 相似项目
 https://github.com/codingo/DNSCewl
+
+https://github.com/infosec-au/altdns
+
+https://github.com/Josue87/gotator
+
+https://github.com/bp0lr/dmut
+
+https://github.com/ProjectAnte/dnsgen
+
